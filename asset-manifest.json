@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/video-watcher/static/css/main.49df87ef.css",
-    "main.js": "/video-watcher/static/js/main.9b983c73.js",
+    "main.js": "/video-watcher/static/js/main.8d44bc2e.js",
     "index.html": "/video-watcher/index.html",
     "main.49df87ef.css.map": "/video-watcher/static/css/main.49df87ef.css.map",
-    "main.9b983c73.js.map": "/video-watcher/static/js/main.9b983c73.js.map"
+    "main.8d44bc2e.js.map": "/video-watcher/static/js/main.8d44bc2e.js.map"
   },
   "entrypoints": [
     "static/css/main.49df87ef.css",
-    "static/js/main.9b983c73.js"
+    "static/js/main.8d44bc2e.js"
   ]
 }
