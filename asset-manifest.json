@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video-watcher/static/css/main.49df87ef.css",
+    "main.js": "/video-watcher/static/js/main.34d5ce22.js",
+    "index.html": "/video-watcher/index.html",
+    "main.49df87ef.css.map": "/video-watcher/static/css/main.49df87ef.css.map",
+    "main.34d5ce22.js.map": "/video-watcher/static/js/main.34d5ce22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49df87ef.css",
+    "static/js/main.34d5ce22.js"
+  ]
+}
