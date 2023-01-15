@@ -1,0 +1,21 @@
+@media (max-width: 1000px) {
+    .App{
+      flex-direction: column-reverse;
+      overflow-y: auto;
+    }
+    #left-col{
+      width: 100vw;
+    }
+    #right-col{
+      width: 100vw;
+      height: 60vh;
+    }
+    #add-video{
+        height: 5vh;
+      }
+    #video-list{
+        overflow-y: scroll;
+        height: 30vh;
+    }
+    #help{display: none;}
+  }
